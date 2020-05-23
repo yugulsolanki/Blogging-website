@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_url": "mysql://root:@localhost/bloggerscafe",
+        "prod_url": "mysql://root:@localhost/bloggerscafe",
+        "fb_url": "https://facebook.com/bloggerscafe",
+        "tw_url": "https://twitter.com/bloggerscafe",
+        "gh_url": "https://github.com/bloggerscafe",
+        "blog_name" : "Blogger's Cafe",
+        "gmail-user": "@gmail.com",
+        "gmail-password": "",
+        "about_text": "Hey this is Yugul Solanki. I am a developer and student. I enjoy writing blogs.",
+        "no_of_posts": 1,
+        "login_image":"login.svg",
+        "admin_user":"yugul",
+        "admin_password": "pass123",
+        "upload_location":"C:\\Users\\yugul\\Desktop\\Flask\\poject1"
+    } 
+}
